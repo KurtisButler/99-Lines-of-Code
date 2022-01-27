@@ -14,6 +14,7 @@ for (let index = 0; index < friends.length; index++) {
         else if (count == 1) {
             console.log(count + " line of code in the file, " + count + " line of code; " + friends[index] + " strikes one out, clears it all out, " + (count - 1) + " line of code in the file!");
 
+            
         };
 
     };
